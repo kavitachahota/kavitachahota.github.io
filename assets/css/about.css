@@ -1,0 +1,12 @@
+.about-me-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.dev-img-container img{
+    height: 70vh;
+    border-radius: 20px;
+    margin: 2px auto;
+}
