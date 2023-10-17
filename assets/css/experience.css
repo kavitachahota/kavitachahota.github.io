@@ -1,0 +1,12 @@
+.experience-container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.experience img {
+    max-width: 150px;
+    height: 20vh;
+    margin-right: 10px;
+}

@@ -1,0 +1,12 @@
+.education-container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.education img {
+    max-width: 150px;
+    margin-right: 10px;
+}

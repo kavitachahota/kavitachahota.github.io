@@ -1,0 +1,58 @@
+#works div{
+    margin: 10px 0;
+}
+/* Styles for the title and description */
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.description {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+/* Styles for the icon-box */
+.icon-box {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.icon-box:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* New styles from about.css */
+.about-me-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dev-img-container img {
+    height: 70vh;
+    border-radius: 20px;
+    margin: 2px auto;
+}
+
+/* New styles from skills.css */
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills-container img {
+    height: 10vh;
+    margin: 10px;
+}
+
+
+.cook-book{
+    height: 100px;
+}
